@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+_eines_git/
+.ipynb_checkpoints/
+/data/curRebut.csv
+/data/evaluated.csv
+/data/capceleres.txt
+uv.lock
+afegir.txt
+.python-version
+reg_ressenyes.json
