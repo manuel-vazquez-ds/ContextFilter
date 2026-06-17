@@ -15,7 +15,7 @@ Application for analyzing and filtering reviews or textual content using _Transf
 
 ## Overview
 
-This repository contains an MVP application developed within the framework of the **Data Product Design** course at the Open University of Catalonia (UOC).
+This repository contains an MVP application developed within the framework of the **Data Product Design** course at the **Universitat Oberta de Catalunya (UOC)**, an online university based in Catalonia, Spain.
 
 The prototype, implemented as a Python Jupyter Notebook, uses **Zero-Shot classification** through language models to evaluate the degree of correspondence between a text and a set of candidate semantic labels.
 
