@@ -1,0 +1,5 @@
+# Ignore generated HTML reports for language statistics
+*.html linguist-generated=true
+
+# Treat notebooks as Python projects
+*.ipynb linguist-language=Python
